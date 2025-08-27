@@ -17,7 +17,6 @@ The dataset is cleaned (handling missing values, outliers, and multicollinearity
 -Model evaluation (Accuracy, Precision, Recall, F1-score, Confusion Matrix)
 
 
-
  Key Findings:
 
 -Important variables that strongly predict fraud include:
